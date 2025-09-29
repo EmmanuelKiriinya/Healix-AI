@@ -1,0 +1,11 @@
+{
+    "arch": "densenet121",
+    "vocab": [
+        "Acne",
+        "Eczema",
+        "Impetigo",
+        "Psoriasis",
+        "Tinea"
+    ],
+    "img_size": 224
+}
